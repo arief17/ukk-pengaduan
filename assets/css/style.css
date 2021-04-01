@@ -1,0 +1,43 @@
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+.dash-kanan img {
+	width: 100%;
+}
+
+.panel-info img {
+	width: 50px !important;
+}
+
+.panel-info .card {
+	height: 160px;
+}
+
+.footer-login img {
+	width: 100px !important;
+	height: 90px;
+	margin-right: -120px !important;
+}
+
+.footer img {
+	width: 100px !important;
+	height: 90px;
+	margin-right: -120px !important;
+}
+
+.tentang-kami img {
+	width: 100% !important;
+}
+
+/* ADMIN */
+
+.user-profile img {
+	width: 120px;
+	margin-top: 20px;
+}
+
+
+.side-nav img {
+	width: 30px !important;
+}
